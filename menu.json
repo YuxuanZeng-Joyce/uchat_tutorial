@@ -1,0 +1,17 @@
+[
+	{
+		"name":"1. Green Salad",
+		"image":"https://i.imgur.com/MwXuVXX.jpg",
+		"price":"5"
+	},
+	{
+		"name":"2. Wagyu Yukke", 
+		"image":"https://i.imgur.com/zIH2P0b.jpg", 
+		"price":"15"
+	},
+	{
+		"name":"3. Chicken Wings", 
+		"image":"https://i.imgur.com/UfvO7vN.jpg", 
+		"price":"13"
+	}
+]
